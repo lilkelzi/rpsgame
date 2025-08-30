@@ -1,6 +1,7 @@
 
 
 console.log("Hello World")
+console.log("Hello World")
 function getcomputerchoice() {
     let computerchoice = Math.random();
 
